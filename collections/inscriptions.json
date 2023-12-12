@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d758a7d65db7f9716b141928ff0c52b07b5050cdce0f52e6d75418ab12685d7bi0",
+    "meta": {
+      "name": "Woof Woof #0",
+      "attributes": [
+        {
+          "value": "Green",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Akita",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Buttondown Red Flannel",
+          "trait_type": "Clothing"
+        },
+        {
+          "value": "Embarrassed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Pixel glasses",
+          "trait_type": "Eyes"
+        },
+        {
+          "value": "Cowboy Hat",
+          "trait_type": "Hat"
+        },
+        {
+          "value": "None",
+          "trait_type": "Scarf"
+        },
+        {
+          "value": "None",
+          "trait_type": "Wing"
+        }
+      ]
+    }
+  }
+]

@@ -1,10 +1,10 @@
 {
-  "name": "Nakamoto Ordinal",
-  "slug": "nakamoto-ordinal",
-  "supply": "298",
-  "description": "Out of the 300 original XCP tokens at most 298 are still in circulation with many of them not being moved in years unknown to the public as to whether they are lost.",
-  "twitter_link": "https://twitter.com/nakamoto_ord",
-  "discord_link": "https://discord.gg/PNYAHaS9Sa",
-  "website_link": "https://rarepepes.com/verify-rarepepe/",
-  "inscription_icon": "https://media.discordapp.net/attachments/1152089676874780682/1152995868144836639/art-nakamoto.jpg"
+  "name": "Woofwoof NFT",
+  "slug": "woofwoof",
+  "supply": "10000",
+  "description": "Woofwoof NFTs are Ordinals Inscriptions issued on the BTC network, with total supply 10,000. Holding Woofwoof NFTs allows you to play the ‘Woof Woof Wolf’ game.",
+  "twitter_link": "https://twitter.com/woofwoofwolfnft",
+  "discord_link": "https://discord.com/invite/a9WAe62GmP",
+  "website_link": "",
+  "inscription_icon": "https://mint.wwwgame.xyz/logo.png"
 }
